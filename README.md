@@ -1,1 +1,1 @@
-# TakumiTakahashi-_SaitamaICTContest
+# さいたまICTコンテスト2023の提出資料
